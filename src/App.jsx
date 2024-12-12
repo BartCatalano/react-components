@@ -1,15 +1,12 @@
-
+import AppHeader from "./components/appHeader"
+import AppCard from "./components/appCard"
 
 function App() {
   
   return (
     <>
-      <header>titolo </header>
-      <main>
-        card
-
-      </main>
-      <footer> scritte finali</footer>
+ <AppHeader />
+ <AppCard />
     </>
   )
 }

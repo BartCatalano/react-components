@@ -1,0 +1,25 @@
+ .col {
+        width: 50%;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid black;
+        height: 70vh;
+      }
+.raw{
+    display: flex;
+    justify-content: center;
+    border: 1px solid yellow;
+}
+.img{
+    height: 70%;
+    border: 1px solid red;
+    background-color: rgb(185, 185, 185);
+    
+}
+
+.description{
+height: 30%;
+border: 1px solid lightgreen;
+text-align: center;
+}
+
