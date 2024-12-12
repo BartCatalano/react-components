@@ -1,5 +1,5 @@
 import style from "./AppCard.module.css"
-
+import AppButton from "./AppButton"
 function AppCard() {
     return (
         <div className={style.raw}>
@@ -12,7 +12,9 @@ function AppCard() {
                          Iure in adipisci iste quam deserunt recusandae assumenda iusto 
                          rerum dicta asperiores, quisquam alias perferendis voluptate ducimus
                           corporis dolore totam laboriosam ipsum!</div>
+                          <AppButton />
                 </section>
+               
             </div>
         </div>
        
