@@ -4,7 +4,12 @@ function App() {
   
   return (
     <>
-      <h1>Hello world</h1>
+      <header>titolo </header>
+      <main>
+        card
+
+      </main>
+      <footer> scritte finali</footer>
     </>
   )
 }
